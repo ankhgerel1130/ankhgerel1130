@@ -8,7 +8,7 @@
 </span>
 
 <p align="center">
-  <img src="banner.gif" alt="GitHub Banner" width="100%" style="max-width: 800px; border-radius: 10px;" />
+  <img src="banner1.gif" alt="GitHub Banner" width="100%" style="max-width: 800px; border-radius: 10px;" />
 </p>
  
 <img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
