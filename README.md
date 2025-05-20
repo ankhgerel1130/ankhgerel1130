@@ -8,12 +8,10 @@
   <img src="banner.gif" alt="GitHub Banner" width="100%" style="max-width: 800px; border-radius: 10px;" />
 </p>
 
-<span align="center">
-<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering;Data-Structures%20|%20Algorithms%20|%20OOP%20;Exploring+and+Learning+New+Things&center=true&width=500&height=50">
-</span>
 
 
-
+ 
+<img src="https://github.com/hhpr98/hhpr98/blob/main/gif/barloading.gif">
 🌐 Currently building my own [personal website](https://your-website-link.com)  
 🎓 Studying Information Technology at the National University of Mongolia (NUM)  
 💻 Learning and experimenting with web development and tech projects  
