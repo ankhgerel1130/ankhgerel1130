@@ -3,16 +3,17 @@
 # Hello World! I'm Ankhgerel 👋🏼
 
 🌐 Currently building my own [personal website](https://your-website-link.com)  
-🎓 Studying computer science at the National University of Mongolia (NUM)  
+🎓 Studying Information Technology at the National University of Mongolia (NUM)  
 💻 Learning and experimenting with web development and tech projects  
-📚 Always exploring new tools, frameworks, and creative ideas  
+📚 Exploring new tools, frameworks, and creative ideas  
 🚀 On a mission to turn code into impact
-
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🌐 Connect with me</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/profile/ankhgerelX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ankhgerelX" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/ankhgerelX" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-%231ba94c.svg?&style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Profile"/>
+  </a>
 </p>
+
 
 <picture>
  
