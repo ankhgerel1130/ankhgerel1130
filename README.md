@@ -27,12 +27,14 @@
     <img src="https://img.shields.io/badge/HackerRank-%231ba94c.svg?&style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Profile"/>
   </a>
 </p>
-<h3 >🏆 Certificates</h3>
-<p >
+<h3>🏆 Certificates</h3>
+<p>
   <a href="https://www.hackerrank.com/certificates/39582414b23a" target="_blank">
-    View my HackerRank Certificate
-    <a href="https://www.hackerrank.com/certificates/9f62edccb923" target="_blank">
-    View my HackerRank Certificate
+    SQL (INTERMEDIATE) Certificate
+  </a>
+  <br/>
+  <a href="https://www.hackerrank.com/certificates/9f62edccb923" target="_blank">
+     SQL (BASIC) Certificate
   </a>
 </p>
 
