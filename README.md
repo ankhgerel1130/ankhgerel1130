@@ -27,15 +27,6 @@
   </a>
 </p>
 
-<p align="left">
-  <span style="display: inline-block;">
-    <img src="1.png" alt="Description 1" width="45%"/>
-  </span>
-  <span style="display: inline-block;">
-    <img src="2.png" alt="Description 2" width="45%"/>
-  </span>
-</p>
-
 
 <picture>
  
