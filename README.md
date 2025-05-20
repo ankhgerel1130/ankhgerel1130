@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ankhgerelx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ankhgerelx" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/ankhgerelX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ankhgerelX" height="30" width="40" /></a>
 </p>
 
 <picture>
