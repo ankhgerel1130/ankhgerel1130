@@ -19,7 +19,8 @@
 💻 Learning and experimenting with web development and tech projects  
 📚 Exploring new tools, frameworks, and creative ideas  
 🚀 On a mission to turn code into impact
-<h3 align="left">🌐 Connect with me</h3>
+
+<h3 align="left">🌐 My Hackerrank profile</h3>
 <p align="left">
   <a href="https://www.hackerrank.com/profile/ankhgerelX" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-%231ba94c.svg?&style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Profile"/>
