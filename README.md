@@ -3,6 +3,9 @@
   <img src="banner.gif" alt="GitHub Banner" width="100%" style="max-width: 800px; border-radius: 10px;" />
 </p>
 
+<span align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering;Data-Structures%20|%20Algorithms%20|%20OOP%20;Exploring+and+Learning+New+Things&center=true&width=500&height=50">
+</span>
 
 
 
