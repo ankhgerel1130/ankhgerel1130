@@ -1,9 +1,10 @@
+# 👋 Heyo! I'm Ankhgerel.
 <p align="center">
   <img src="banner.gif" alt="GitHub Banner" width="100%" style="max-width: 800px; border-radius: 10px;" />
 </p>
 
 
-# 👋 Heyo! I'm Ankhgerel. 
+ 
 
 🌐 Currently building my own [personal website](https://your-website-link.com)  
 🎓 Studying Information Technology at the National University of Mongolia (NUM)  
