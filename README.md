@@ -6,6 +6,11 @@
 <span align="center">
 <img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering;Data-Structures%20|%20Algorithms%20|%20OOP%20;Exploring+and+Learning+New+Things&center=true&width=500&height=50">
 </span>
+<picture>
+ 
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
 
 <p align="center">
   <img src="banner1.gif" alt="GitHub Banner" width="100%" style="max-width: 800px; border-radius: 10px;" />
@@ -26,9 +31,11 @@
     <img src="https://img.shields.io/badge/HackerRank-%231ba94c.svg?&style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Profile"/>
   </a>
 </p>
-<h3 align="left">🌐 Certificates</h3>
+<h3 align="left">🏆 Certificates</h3>
 <p align="left">
   <a href="https://www.hackerrank.com/certificates/39582414b23a" target="_blank">
+    View my HackerRank Certificate
+    <a href="https://www.hackerrank.com/certificates/9f62edccb923" target="_blank">
     View my HackerRank Certificate
   </a>
 </p>
