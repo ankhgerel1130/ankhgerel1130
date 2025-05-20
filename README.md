@@ -28,8 +28,8 @@
 </p>
 
 <p align="left">
-  <img src="1.png" alt="Description 1" width="200"/>
-  <img src="2.png" alt="Description 2" width="200"/>
+  <img src="1.png" alt="Description 1" width="500"/>
+  <img src="2.png" alt="Description 2" width="500"/>
 </p>
 
 
