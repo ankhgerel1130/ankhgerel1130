@@ -1,7 +1,13 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+# Hello World! I'm Ankhgerel 👋🏼
+
+🌐 Currently building my own [personal website](https://your-website-link.com)  
+🎓 Studying computer science at the National University of Mongolia (NUM)  
+💻 Learning and experimenting with web development and tech projects  
+📚 Always exploring new tools, frameworks, and creative ideas  
+🚀 On a mission to turn code into impact
+
 
 
 <picture>
