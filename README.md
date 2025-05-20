@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<p align="left"> Badges
+<p align="left">
   <span style="display: inline-block;">
     <img src="1.png" alt="Description 1" width="45%"/>
   </span>
